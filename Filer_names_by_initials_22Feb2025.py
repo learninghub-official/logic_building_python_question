@@ -1,5 +1,5 @@
-arry = ['A','B','M','N']
-arry1 = ['Mayank','Nupur','Gavish']
+arry = ['A','B','M','N','G']
+arry1 = ['Mayank','Nupur','Gavish','krish']
 
 for j in arry1:
     for k in range(len(j)):
