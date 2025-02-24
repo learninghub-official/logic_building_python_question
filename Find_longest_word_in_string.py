@@ -19,7 +19,7 @@
 #     if len(i) == maximum:
 #         print(f"{i} ({maximum} characters)")
 
-
+# The above code is taking more time to execuse and space
 # The above code is using un necessary loop 
 
 # here is the more precised way to solve this problem
