@@ -21,7 +21,6 @@
 
 # The above code is taking more time to execuse and space
 # The above code is using un necessary loop 
-
 # here is the more precised way to solve this problem
 
 l = 'My name is Mayank I work at TCS' 
