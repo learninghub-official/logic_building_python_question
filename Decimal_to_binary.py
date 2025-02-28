@@ -24,7 +24,16 @@ def decimal_to_binary(n):
     return binary
 # print(decimal_to_binary(n))
 b = decimal_to_binary(n)
+# print(b)
+# Converting binary to decimal
 
+# binary = "1010"
+
+# for i in b:
+#     # print(i)
+#     if i == " ":
+#         return None
+#     else:
 
 
 
